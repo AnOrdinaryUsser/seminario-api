@@ -14,11 +14,8 @@
 ![Gemini](https://img.shields.io/badge/Gemini-API-8E75B2?logo=googlegemini&logoColor=white)
 
 Material del seminario impartido el 23 de octubre de 2026 en la Facultad de Ciencias de la
-Universidad de Salamanca: las diapositivas y las tres demos que se hicieron en directo.
+Universidad de Salamanca (las diapositivas y las tres demos que se hicieron en directo).
 
-La idea de fondo es sencilla: los pagos, los mapas, el login o la IA ya están resueltos y se
-pueden usar a través de una API. Tu trabajo es la idea y la integración. Cada demo combina
-varias APIs públicas para sacar algo que ninguna da por separado.
 
 ## Contenido
 
@@ -208,8 +205,7 @@ curl -s https://pokeapi.co/api/v2/pokemon/pikachu | jq '.types[].type.name'
   el resto, y comprueba los permisos de micrófono del sistema.
 - **No se oye nada con edge-tts**: necesita internet. Sin conexión el asistente pasa solo a la
   voz del sistema.
-- **La primera ejecución tarda mucho**: se están descargando los modelos (AST o Whisper). Solo
-  ocurre una vez.
+- **La primera ejecución tarda mucho**: se están descargando los modelos (AST o Whisper). Solo ocurre una vez.
 
 ## Licencia
 
