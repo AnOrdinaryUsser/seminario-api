@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Si usas o adaptas este material, cítalo así."
+title: "De la teoría a la práctica: conecta tu app con datos abiertos y APIs en tiempo real"
+type: software
+authors:
+  - family-names: "García González"
+    given-names: "Sergio"
+    email: "sergio.gg@usal.es"
+    affiliation: "Universidad de Salamanca, Expert Systems and Applications Laboratory (ESALab)"
+date-released: 2026-10-23
+license: MIT
+repository-code: "https://github.com/anordinaryusser/seminario-api"
+keywords:
+  - API
+  - REST
+  - datos abiertos
+  - tiempo real
+  - Python

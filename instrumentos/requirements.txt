@@ -1,0 +1,10 @@
+# PyTorch solo CPU (unos 200 MB en lugar de >2 GB). Si tienes GPU NVIDIA, quita esta línea.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch>=2.2
+transformers>=4.40
+librosa>=0.10
+matplotlib>=3.8
+pillow>=10.0
+numpy>=1.26
+requests>=2.31
+python-dotenv>=1.0

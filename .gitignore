@@ -1,0 +1,21 @@
+# credenciales
+.env
+.env.*
+!.env.example
+
+# entornos y cachés de Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# salidas de los scripts
+instrumentos/cache/
+*/resultado.png
+asistente-voz/personaje.txt
+
+# sistema
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
